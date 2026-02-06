@@ -1,0 +1,367 @@
+[
+  {
+    "id": 1,
+    "name": "Aelwyn",
+    "description": "A disciplined arcane scholar seeking forbidden knowledge.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1092-04-12",
+    "imageUrl": "https://example.com/images/magicusers/aelwyn.png",
+    "element": "arcane",
+    "hobbies": ["reading tomes", "spell crafting"],
+    "guild": {
+      "id": 1,
+      "name": "Arcane Circle",
+      "foundedYear": 1023,
+      "isActive": true,
+      "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Braska",
+    "description": "A fiery battlemage with a volatile temper.",
+    "age": 41,
+    "isActive": true,
+    "birthDate": "1085-09-03",
+    "imageUrl": "https://example.com/images/magicusers/braska.png",
+    "element": "fire",
+    "hobbies": ["dueling", "weapon forging"],
+    "guild": {
+      "id": 2,
+      "name": "Flame Covenant",
+      "foundedYear": 1105,
+      "isActive": true,
+      "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Liora",
+    "description": "A calm healer deeply connected to nature spirits.",
+    "age": 29,
+    "isActive": true,
+    "birthDate": "1097-06-21",
+    "imageUrl": "https://example.com/images/magicusers/liora.png",
+    "element": "nature",
+    "hobbies": ["gardening", "meditation"],
+    "guild": {
+      "id": 3,
+      "name": "Verdant Order",
+      "foundedYear": 980,
+      "isActive": true,
+      "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Nyx",
+    "description": "A shadow mage operating from the unseen.",
+    "age": 37,
+    "isActive": false,
+    "birthDate": "1089-11-30",
+    "imageUrl": "https://example.com/images/magicusers/nyx.png",
+    "element": "shadow",
+    "hobbies": ["eavesdropping", "illusion crafting"],
+    "guild": {
+      "id": 4,
+      "name": "Shadow Veil",
+      "foundedYear": 1150,
+      "isActive": false,
+      "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Solareth",
+    "description": "A mage channeling energy from the stars.",
+    "age": 52,
+    "isActive": true,
+    "birthDate": "1074-02-14",
+    "imageUrl": "https://example.com/images/magicusers/solareth.png",
+    "element": "celestial",
+    "hobbies": ["stargazing", "astrology"],
+    "guild": {
+      "id": 5,
+      "name": "Celestial Accord",
+      "foundedYear": 1088,
+      "isActive": true,
+      "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+    }
+  },
+
+  {
+    "id": 6,
+    "name": "Eryndor",
+    "description": "A tactical arcane duelist.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1100-01-19",
+    "imageUrl": "https://example.com/images/magicusers/eryndor.png",
+    "element": "arcane",
+    "hobbies": ["chess", "spell duels"],
+    "guild": {
+      "id": 1,
+      "name": "Arcane Circle",
+      "foundedYear": 1023,
+      "isActive": true,
+      "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Pyra",
+    "description": "An explosive fire sorceress.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1095-07-08",
+    "imageUrl": "https://example.com/images/magicusers/pyra.png",
+    "element": "fire",
+    "hobbies": ["alchemy", "arena fights"],
+    "guild": {
+      "id": 2,
+      "name": "Flame Covenant",
+      "foundedYear": 1105,
+      "isActive": true,
+      "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+    }
+  },
+
+  {
+    "id": 8,
+    "name": "Thalanor",
+    "description": "A druidic guardian of ancient forests.",
+    "age": 46,
+    "isActive": true,
+    "birthDate": "1080-03-25",
+    "imageUrl": "https://example.com/images/magicusers/thalanor.png",
+    "element": "nature",
+    "hobbies": ["animal bonding", "wood carving"],
+    "guild": {
+      "id": 3,
+      "name": "Verdant Order",
+      "foundedYear": 980,
+      "isActive": true,
+      "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+    }
+  },
+
+  {
+    "id": 9,
+    "name": "Umbriel",
+    "description": "A master of darkness and secrecy.",
+    "age": 39,
+    "isActive": false,
+    "birthDate": "1087-10-10",
+    "imageUrl": "https://example.com/images/magicusers/umbriel.png",
+    "element": "shadow",
+    "hobbies": ["code breaking", "stealth training"],
+    "guild": {
+      "id": 4,
+      "name": "Shadow Veil",
+      "foundedYear": 1150,
+      "isActive": false,
+      "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+    }
+  },
+
+    {
+        "id": 10,
+        "name": "Astra",
+        "description": "A young prodigy blessed by the cosmos.",
+        "age": 22,
+        "isActive": true,
+        "birthDate": "1104-12-01",
+        "imageUrl": "https://example.com/images/magicusers/astra.png",
+        "element": "celestial",
+        "hobbies": ["map reading", "constellation drawing"],
+        "guild": {
+        "id": 5,
+        "name": "Celestial Accord",
+        "foundedYear": 1088,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+        }
+    },
+    {
+    "id": 11,
+    "name": "Kaelion",
+    "description": "A theoretical mage obsessed with magical formulas.",
+    "age": 44,
+    "isActive": true,
+    "birthDate": "1082-05-17",
+    "imageUrl": "https://example.com/images/magicusers/kaelion.png",
+    "element": "arcane",
+    "hobbies": ["research", "glyph drawing"],
+    "guild": {
+        "id": 1,
+        "name": "Arcane Circle",
+        "foundedYear": 1023,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+    }
+    },
+    {
+    "id": 12,
+    "name": "Ignivar",
+    "description": "A veteran fire mage hardened by countless battles.",
+    "age": 58,
+    "isActive": false,
+    "birthDate": "1068-08-29",
+    "imageUrl": "https://example.com/images/magicusers/ignivar.png",
+    "element": "fire",
+    "hobbies": ["storytelling", "medal polishing"],
+    "guild": {
+        "id": 2,
+        "name": "Flame Covenant",
+        "foundedYear": 1105,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+    }
+    },
+    {
+    "id": 13,
+    "name": "Sylvara",
+    "description": "A nature mage nurturing magical herbs.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1093-04-06",
+    "imageUrl": "https://example.com/images/magicusers/sylvara.png",
+    "element": "nature",
+    "hobbies": ["herbalism", "tea brewing"],
+    "guild": {
+        "id": 3,
+        "name": "Verdant Order",
+        "foundedYear": 980,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+    }
+    },
+    {
+    "id": 14,
+    "name": "Noctis",
+    "description": "A silent observer manipulating shadows from afar.",
+    "age": 28,
+    "isActive": true,
+    "birthDate": "1098-12-18",
+    "imageUrl": "https://example.com/images/magicusers/noctis.png",
+    "element": "shadow",
+    "hobbies": ["night walking", "lock picking"],
+    "guild": {
+        "id": 4,
+        "name": "Shadow Veil",
+        "foundedYear": 1150,
+        "isActive": false,
+        "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+    }
+    },
+    {
+    "id": 15,
+    "name": "Oriona",
+    "description": "A celestial priestess interpreting cosmic signs.",
+    "age": 47,
+    "isActive": true,
+    "birthDate": "1079-09-09",
+    "imageUrl": "https://example.com/images/magicusers/oriona.png",
+    "element": "celestial",
+    "hobbies": ["star charts", "ritual singing"],
+    "guild": {
+        "id": 5,
+        "name": "Celestial Accord",
+        "foundedYear": 1088,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+    }
+    },
+    {
+    "id": 16,
+    "name": "Virex",
+    "description": "A rebellious arcane mage bending rules of magic.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "1102-02-02",
+    "imageUrl": "https://example.com/images/magicusers/virex.png",
+    "element": "arcane",
+    "hobbies": ["experimenting", "wand modification"],
+    "guild": {
+        "id": 1,
+        "name": "Arcane Circle",
+        "foundedYear": 1023,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+    }
+    },
+    {
+    "id": 17,
+    "name": "Cindra",
+    "description": "A fire dancer channeling flames through movement.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1099-06-30",
+    "imageUrl": "https://example.com/images/magicusers/cindra.png",
+    "element": "fire",
+    "hobbies": ["dancing", "music"],
+    "guild": {
+        "id": 2,
+        "name": "Flame Covenant",
+        "foundedYear": 1105,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+    }
+    },
+    {
+    "id": 18,
+    "name": "Eldrin",
+    "description": "A wandering druid listening to the land.",
+    "age": 61,
+    "isActive": false,
+    "birthDate": "1065-01-11",
+    "imageUrl": "https://example.com/images/magicusers/eldrin.png",
+    "element": "nature",
+    "hobbies": ["traveling", "stone stacking"],
+    "guild": {
+        "id": 3,
+        "name": "Verdant Order",
+        "foundedYear": 980,
+        "isActive": true,
+        "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+    }
+    },
+    {
+    "id": 19,
+    "name": "Vespera",
+    "description": "A former assassin now mastering illusion magic.",
+    "age": 35,
+    "isActive": true,
+    "birthDate": "1089-07-14",
+    "imageUrl": "https://example.com/images/magicusers/vespera.png",
+    "element": "shadow",
+    "hobbies": ["mask crafting", "acting"],
+    "guild": {
+        "id": 4,
+        "name": "Shadow Veil",
+        "foundedYear": 1150,
+        "isActive": false,
+        "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+    }
+    },
+    {
+        "id": 20,
+        "name": "Caelum",
+        "description": "A calm monk drawing power from the stars.",
+        "age": 40,
+        "isActive": true,
+        "birthDate": "1084-03-03",
+        "imageUrl": "https://example.com/images/magicusers/caelum.png",
+        "element": "celestial",
+        "hobbies": ["meditation", "calligraphy"],
+        "guild": {
+            "id": 5,
+            "name": "Celestial Accord",
+            "foundedYear": 1088,
+            "isActive": true,
+            "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+        }
+    }
+]

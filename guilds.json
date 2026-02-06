@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "name": "Arcane Circle",
+    "description": "A guild focused on ancient arcane knowledge and spell mastery.",
+    "foundedYear": 1023,
+    "isActive": true,
+    "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+  },
+  {
+    "id": 2,
+    "name": "Flame Covenant",
+    "description": "Fire magic specialists known for their destructive power.",
+    "foundedYear": 1105,
+    "isActive": true,
+    "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+  },
+  {
+    "id": 3,
+    "name": "Verdant Order",
+    "description": "Nature-based magic users protecting the balance of life.",
+    "foundedYear": 980,
+    "isActive": true,
+    "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+  },
+  {
+    "id": 4,
+    "name": "Shadow Veil",
+    "description": "A secretive guild specializing in illusion and shadow magic.",
+    "foundedYear": 1150,
+    "isActive": false,
+    "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+  },
+  {
+    "id": 5,
+    "name": "Celestial Accord",
+    "description": "Magic users devoted to celestial and cosmic energies.",
+    "foundedYear": 1088,
+    "isActive": true,
+    "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+  }
+]
