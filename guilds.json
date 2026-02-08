@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -6,7 +5,7 @@
     "description": "A guild focused on ancient arcane knowledge and spell mastery.",
     "foundedYear": 1023,
     "isActive": true,
-    "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+    "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
   },
   {
     "id": 2,
@@ -14,7 +13,7 @@
     "description": "Fire magic specialists known for their destructive power.",
     "foundedYear": 1105,
     "isActive": true,
-    "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+    "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
   },
   {
     "id": 3,
@@ -22,7 +21,7 @@
     "description": "Nature-based magic users protecting the balance of life.",
     "foundedYear": 980,
     "isActive": true,
-    "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+    "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
   },
   {
     "id": 4,
@@ -30,7 +29,7 @@
     "description": "A secretive guild specializing in illusion and shadow magic.",
     "foundedYear": 1150,
     "isActive": false,
-    "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+    "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
   },
   {
     "id": 5,
@@ -38,6 +37,6 @@
     "description": "Magic users devoted to celestial and cosmic energies.",
     "foundedYear": 1088,
     "isActive": true,
-    "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+    "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
   }
 ]
