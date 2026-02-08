@@ -6,7 +6,7 @@
     "age": 34,
     "isActive": true,
     "birthDate": "1092-04-12",
-    "imageUrl": "https://example.com/images/magicusers/aelwyn.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/ArcaneMageAelwyn.png",
     "element": "arcane",
     "hobbies": ["reading tomes", "spell crafting"],
     "guild": {
@@ -14,17 +14,17 @@
       "name": "Arcane Circle",
       "foundedYear": 1023,
       "isActive": true,
-      "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
     }
   },
   {
     "id": 2,
     "name": "Braska",
-    "description": "A fiery battlemage with a volatile temper.",
+    "description": "A fire sorcerer that uses his powers to forge powefull weapons and is well trained in sword combat.",
     "age": 41,
     "isActive": true,
     "birthDate": "1085-09-03",
-    "imageUrl": "https://example.com/images/magicusers/braska.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireMageBraska.png",
     "element": "fire",
     "hobbies": ["dueling", "weapon forging"],
     "guild": {
@@ -32,7 +32,7 @@
       "name": "Flame Covenant",
       "foundedYear": 1105,
       "isActive": true,
-      "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
     }
   },
   {
@@ -42,7 +42,7 @@
     "age": 29,
     "isActive": true,
     "birthDate": "1097-06-21",
-    "imageUrl": "https://example.com/images/magicusers/liora.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureMageLiora.png",
     "element": "nature",
     "hobbies": ["gardening", "meditation"],
     "guild": {
@@ -50,17 +50,17 @@
       "name": "Verdant Order",
       "foundedYear": 980,
       "isActive": true,
-      "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
     }
   },
   {
     "id": 4,
-    "name": "Nyx",
-    "description": "A shadow mage operating from the unseen.",
+    "name": "Xeno",
+    "description": "A shadow fighter slicing through enemies with his scythe.",
     "age": 37,
     "isActive": false,
     "birthDate": "1089-11-30",
-    "imageUrl": "https://example.com/images/magicusers/nyx.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkMageXeno.png",
     "element": "shadow",
     "hobbies": ["eavesdropping", "illusion crafting"],
     "guild": {
@@ -68,7 +68,7 @@
       "name": "Shadow Veil",
       "foundedYear": 1150,
       "isActive": false,
-      "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
     }
   },
   {
@@ -78,7 +78,7 @@
     "age": 52,
     "isActive": true,
     "birthDate": "1074-02-14",
-    "imageUrl": "https://example.com/images/magicusers/solareth.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageSolareth.png",
     "element": "celestial",
     "hobbies": ["stargazing", "astrology"],
     "guild": {
@@ -86,7 +86,7 @@
       "name": "Celestial Accord",
       "foundedYear": 1088,
       "isActive": true,
-      "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
     }
   },
 
@@ -97,7 +97,7 @@
     "age": 26,
     "isActive": true,
     "birthDate": "1100-01-19",
-    "imageUrl": "https://example.com/images/magicusers/eryndor.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/ArcaneMageEryndor.png",
     "element": "arcane",
     "hobbies": ["chess", "spell duels"],
     "guild": {
@@ -105,7 +105,7 @@
       "name": "Arcane Circle",
       "foundedYear": 1023,
       "isActive": true,
-      "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
     }
   },
 
@@ -116,7 +116,7 @@
     "age": 31,
     "isActive": true,
     "birthDate": "1095-07-08",
-    "imageUrl": "https://example.com/images/magicusers/pyra.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireMagePyra.png",
     "element": "fire",
     "hobbies": ["alchemy", "arena fights"],
     "guild": {
@@ -124,7 +124,7 @@
       "name": "Flame Covenant",
       "foundedYear": 1105,
       "isActive": true,
-      "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
     }
   },
 
@@ -135,7 +135,7 @@
     "age": 46,
     "isActive": true,
     "birthDate": "1080-03-25",
-    "imageUrl": "https://example.com/images/magicusers/thalanor.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureMageThalanor.png",
     "element": "nature",
     "hobbies": ["animal bonding", "wood carving"],
     "guild": {
@@ -143,18 +143,18 @@
       "name": "Verdant Order",
       "foundedYear": 980,
       "isActive": true,
-      "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
     }
   },
 
   {
     "id": 9,
-    "name": "Umbriel",
+    "name": "Aurora",
     "description": "A master of darkness and secrecy.",
     "age": 39,
     "isActive": false,
     "birthDate": "1087-10-10",
-    "imageUrl": "https://example.com/images/magicusers/umbriel.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkMageAurora.png",
     "element": "shadow",
     "hobbies": ["code breaking", "stealth training"],
     "guild": {
@@ -162,7 +162,7 @@
       "name": "Shadow Veil",
       "foundedYear": 1150,
       "isActive": false,
-      "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
     }
   },
 
@@ -173,7 +173,7 @@
         "age": 22,
         "isActive": true,
         "birthDate": "1104-12-01",
-        "imageUrl": "https://example.com/images/magicusers/astra.png",
+        "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageAstraV2.png",
         "element": "celestial",
         "hobbies": ["map reading", "constellation drawing"],
         "guild": {
@@ -181,7 +181,7 @@
         "name": "Celestial Accord",
         "foundedYear": 1088,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
         }
     },
     {
@@ -191,7 +191,7 @@
     "age": 44,
     "isActive": true,
     "birthDate": "1082-05-17",
-    "imageUrl": "https://example.com/images/magicusers/kaelion.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/ArcaneMageKaelion.png",
     "element": "arcane",
     "hobbies": ["research", "glyph drawing"],
     "guild": {
@@ -199,7 +199,7 @@
         "name": "Arcane Circle",
         "foundedYear": 1023,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
     }
     },
     {
@@ -209,7 +209,7 @@
     "age": 58,
     "isActive": false,
     "birthDate": "1068-08-29",
-    "imageUrl": "https://example.com/images/magicusers/ignivar.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireMageIgnivar.png",
     "element": "fire",
     "hobbies": ["storytelling", "medal polishing"],
     "guild": {
@@ -217,7 +217,7 @@
         "name": "Flame Covenant",
         "foundedYear": 1105,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
     }
     },
     {
@@ -227,7 +227,7 @@
     "age": 33,
     "isActive": true,
     "birthDate": "1093-04-06",
-    "imageUrl": "https://example.com/images/magicusers/sylvara.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureMageSylvara.png",
     "element": "nature",
     "hobbies": ["herbalism", "tea brewing"],
     "guild": {
@@ -235,17 +235,17 @@
         "name": "Verdant Order",
         "foundedYear": 980,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
     }
     },
     {
     "id": 14,
-    "name": "Noctis",
+    "name": "Aeron",
     "description": "A silent observer manipulating shadows from afar.",
     "age": 28,
     "isActive": true,
     "birthDate": "1098-12-18",
-    "imageUrl": "https://example.com/images/magicusers/noctis.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkMageAeron.png",
     "element": "shadow",
     "hobbies": ["night walking", "lock picking"],
     "guild": {
@@ -253,7 +253,7 @@
         "name": "Shadow Veil",
         "foundedYear": 1150,
         "isActive": false,
-        "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
     }
     },
     {
@@ -263,7 +263,7 @@
     "age": 47,
     "isActive": true,
     "birthDate": "1079-09-09",
-    "imageUrl": "https://example.com/images/magicusers/oriona.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageOriona.png",
     "element": "celestial",
     "hobbies": ["star charts", "ritual singing"],
     "guild": {
@@ -271,7 +271,7 @@
         "name": "Celestial Accord",
         "foundedYear": 1088,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
     }
     },
     {
@@ -281,7 +281,7 @@
     "age": 24,
     "isActive": true,
     "birthDate": "1102-02-02",
-    "imageUrl": "https://example.com/images/magicusers/virex.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/ArcaneMageVirex.png",
     "element": "arcane",
     "hobbies": ["experimenting", "wand modification"],
     "guild": {
@@ -289,7 +289,7 @@
         "name": "Arcane Circle",
         "foundedYear": 1023,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/arcane_circle.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
     }
     },
     {
@@ -299,7 +299,7 @@
     "age": 27,
     "isActive": true,
     "birthDate": "1099-06-30",
-    "imageUrl": "https://example.com/images/magicusers/cindra.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireMageCindra.png",
     "element": "fire",
     "hobbies": ["dancing", "music"],
     "guild": {
@@ -307,35 +307,35 @@
         "name": "Flame Covenant",
         "foundedYear": 1105,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/flame_covenant.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
     }
     },
     {
     "id": 18,
-    "name": "Eldrin",
-    "description": "A wandering druid listening to the land.",
-    "age": 61,
+    "name": "Orion",
+    "description": "A fighter turned monarch after mastering the power of wind.",
+    "age": 24,
     "isActive": false,
     "birthDate": "1065-01-11",
-    "imageUrl": "https://example.com/images/magicusers/eldrin.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureMageOrion.png",
     "element": "nature",
-    "hobbies": ["traveling", "stone stacking"],
+    "hobbies": ["1 on 1 combat", "controlling the wind"],
     "guild": {
         "id": 3,
         "name": "Verdant Order",
         "foundedYear": 980,
         "isActive": true,
-        "emblemUrl": "https://example.com/images/guilds/verdant_order.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
     }
     },
     {
     "id": 19,
-    "name": "Vespera",
+    "name": "Lilith",
     "description": "A former assassin now mastering illusion magic.",
     "age": 35,
     "isActive": true,
     "birthDate": "1089-07-14",
-    "imageUrl": "https://example.com/images/magicusers/vespera.png",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkMageLilith.png",
     "element": "shadow",
     "hobbies": ["mask crafting", "acting"],
     "guild": {
@@ -343,7 +343,7 @@
         "name": "Shadow Veil",
         "foundedYear": 1150,
         "isActive": false,
-        "emblemUrl": "https://example.com/images/guilds/shadow_veil.png"
+        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
     }
     },
     {
@@ -353,7 +353,7 @@
         "age": 40,
         "isActive": true,
         "birthDate": "1084-03-03",
-        "imageUrl": "https://example.com/images/magicusers/caelum.png",
+        "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageCaelum.png",
         "element": "celestial",
         "hobbies": ["meditation", "calligraphy"],
         "guild": {
@@ -361,7 +361,7 @@
             "name": "Celestial Accord",
             "foundedYear": 1088,
             "isActive": true,
-            "emblemUrl": "https://example.com/images/guilds/celestial_accord.png"
+            "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
         }
     }
 ]
