@@ -94,7 +94,6 @@
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
     }
   },
-
   {
     "id": 6,
     "name": "Eryndor",
@@ -114,7 +113,6 @@
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
     }
   },
-
   {
     "id": 7,
     "name": "Pyra",
@@ -134,7 +132,6 @@
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
     }
   },
-
   {
     "id": 8,
     "name": "Thalanor",
@@ -154,7 +151,6 @@
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
     }
   },
-
   {
     "id": 9,
     "name": "Aurora",
@@ -174,27 +170,26 @@
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
     }
   },
-
-    {
-        "id": 10,
-        "name": "Astra",
-        "description": "A young prodigy blessed by the cosmos.",
-        "age": 22,
-        "isActive": true,
-        "birthDate": "1104-12-01",
-        "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageAstraV2.png",
-        "element": "celestial",
-        "hobbies": ["map reading", "constellation drawing"],
-        "guild": {
-        "id": 5,
-        "name": "Celestial Accord",
-        "description": "Magic users devoted to celestial and cosmic energies.",
-        "foundedYear": 1088,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
-        }
-    },
-    {
+  {
+    "id": 10,
+    "name": "Astra",
+    "description": "A young prodigy blessed by the cosmos.",
+    "age": 22,
+    "isActive": true,
+    "birthDate": "1104-12-01",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageAstraV2.png",
+    "element": "celestial",
+    "hobbies": ["map reading", "constellation drawing"],
+    "guild": {
+      "id": 5,
+      "name": "Celestial Accord",
+      "description": "Magic users devoted to celestial and cosmic energies.",
+      "foundedYear": 1088,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
+    }
+  },
+  {
     "id": 11,
     "name": "Kaelion",
     "description": "A theoretical mage obsessed with magical formulas.",
@@ -205,15 +200,15 @@
     "element": "arcane",
     "hobbies": ["research", "glyph drawing"],
     "guild": {
-        "id": 1,
-        "name": "Arcane Circle",
-        "description": "A guild focused on ancient arcane knowledge and spell mastery.",
-        "foundedYear": 1023,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
+      "id": 1,
+      "name": "Arcane Circle",
+      "description": "A guild focused on ancient arcane knowledge and spell mastery.",
+      "foundedYear": 1023,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 12,
     "name": "Ignivar",
     "description": "A veteran fire mage hardened by countless battles.",
@@ -224,15 +219,15 @@
     "element": "fire",
     "hobbies": ["storytelling", "medal polishing"],
     "guild": {
-        "id": 2,
-        "name": "Flame Covenant",
-        "description": "Fire magic specialists known for their destructive power.",
-        "foundedYear": 1105,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
+      "id": 2,
+      "name": "Flame Covenant",
+      "description": "Fire magic specialists known for their destructive power.",
+      "foundedYear": 1105,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 13,
     "name": "Sylvara",
     "description": "A nature mage nurturing magical herbs.",
@@ -243,15 +238,15 @@
     "element": "nature",
     "hobbies": ["herbalism", "tea brewing"],
     "guild": {
-        "id": 3,
-        "name": "Verdant Order",
-        "description": "Nature-based magic users protecting the balance of life.",
-        "foundedYear": 980,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
+      "id": 3,
+      "name": "Verdant Order",
+      "description": "Nature-based magic users protecting the balance of life.",
+      "foundedYear": 980,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 14,
     "name": "Aeron",
     "description": "A silent observer manipulating shadows from afar.",
@@ -262,15 +257,15 @@
     "element": "shadow",
     "hobbies": ["night walking", "lock picking"],
     "guild": {
-        "id": 4,
-        "name": "Shadow Veil",
-        "description": "A secretive guild specializing in illusion and shadow magic.",
-        "foundedYear": 1150,
-        "isActive": false,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
+      "id": 4,
+      "name": "Shadow Veil",
+      "description": "A secretive guild specializing in illusion and shadow magic.",
+      "foundedYear": 1150,
+      "isActive": false,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 15,
     "name": "Oriona",
     "description": "A celestial priestess interpreting cosmic signs.",
@@ -281,15 +276,15 @@
     "element": "celestial",
     "hobbies": ["star charts", "ritual singing"],
     "guild": {
-        "id": 5,
-        "name": "Celestial Accord",
-        "description": "Magic users devoted to celestial and cosmic energies.",
-        "foundedYear": 1088,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
+      "id": 5,
+      "name": "Celestial Accord",
+      "description": "Magic users devoted to celestial and cosmic energies.",
+      "foundedYear": 1088,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 16,
     "name": "Virex",
     "description": "A rebellious arcane mage bending rules of magic.",
@@ -300,15 +295,15 @@
     "element": "arcane",
     "hobbies": ["experimenting", "wand modification"],
     "guild": {
-        "id": 1,
-        "name": "Arcane Circle",
-        "description": "A guild focused on ancient arcane knowledge and spell mastery.",
-        "foundedYear": 1023,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
+      "id": 1,
+      "name": "Arcane Circle",
+      "description": "A guild focused on ancient arcane knowledge and spell mastery.",
+      "foundedYear": 1023,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 17,
     "name": "Cindra",
     "description": "A fire dancer channeling flames through movement.",
@@ -319,15 +314,15 @@
     "element": "fire",
     "hobbies": ["dancing", "music"],
     "guild": {
-        "id": 2,
-        "name": "Flame Covenant",
-        "description": "Fire magic specialists known for their destructive power.",
-        "foundedYear": 1105,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
+      "id": 2,
+      "name": "Flame Covenant",
+      "description": "Fire magic specialists known for their destructive power.",
+      "foundedYear": 1105,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 18,
     "name": "Orion",
     "description": "A fighter turned monarch after mastering the power of wind.",
@@ -338,15 +333,15 @@
     "element": "nature",
     "hobbies": ["1 on 1 combat", "controlling the wind"],
     "guild": {
-        "id": 3,
-        "name": "Verdant Order",
-        "description": "Nature-based magic users protecting the balance of life.",
-        "foundedYear": 980,
-        "isActive": true,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
+      "id": 3,
+      "name": "Verdant Order",
+      "description": "Nature-based magic users protecting the balance of life.",
+      "foundedYear": 980,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
     }
-    },
-    {
+  },
+  {
     "id": 19,
     "name": "Lilith",
     "description": "A former assassin now mastering illusion magic.",
@@ -357,34 +352,35 @@
     "element": "shadow",
     "hobbies": ["mask crafting", "acting"],
     "guild": {
-        "id": 4,
-        "name": "Shadow Veil",
-        "description": "A secretive guild specializing in illusion and shadow magic.",
-        "foundedYear": 1150,
-        "isActive": false,
-        "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
+      "id": 4,
+      "name": "Shadow Veil",
+      "description": "A secretive guild specializing in illusion and shadow magic.",
+      "foundedYear": 1150,
+      "isActive": false,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
     }
-    },
-    {
-        "id": 20,
-        "name": "Caelum",
-        "description": "A calm monk drawing power from the stars.",
-        "age": 40,
-        "isActive": true,
-        "birthDate": "1084-03-03",
-        "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageCaelum.png",
-        "element": "celestial",
-        "hobbies": ["meditation", "calligraphy"],
-        "guild": {
-            "id": 5,
-            "name": "Celestial Accord",
-            "description": "Magic users devoted to celestial and cosmic energies.",
-            "foundedYear": 1088,
-            "isActive": true,
-            "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
-        }
+  },
+  {
+    "id": 20,
+    "name": "Caelum",
+    "description": "A calm monk drawing power from the stars.",
+    "age": 40,
+    "isActive": true,
+    "birthDate": "1084-03-03",
+    "imageUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CelestialMageCaelum.png",
+    "element": "celestial",
+    "hobbies": ["meditation", "calligraphy"],
+    "guild": {
+      "id": 5,
+      "name": "Celestial Accord",
+      "description": "Magic users devoted to celestial and cosmic energies.",
+      "foundedYear": 1088,
+      "isActive": true,
+      "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
     }
+  }
 ]
+
 
 
 
