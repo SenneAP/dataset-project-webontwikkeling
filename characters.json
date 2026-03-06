@@ -69,6 +69,7 @@
     "guild": {
       "id": 4,
       "name": "Shadow Veil",
+      "description": "A secretive guild specializing in illusion and shadow magic.",
       "foundedYear": 1150,
       "isActive": false,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
@@ -166,6 +167,7 @@
     "guild": {
       "id": 4,
       "name": "Shadow Veil",
+      "description": "A secretive guild specializing in illusion and shadow magic.",
       "foundedYear": 1150,
       "isActive": false,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
@@ -260,6 +262,7 @@
     "guild": {
         "id": 4,
         "name": "Shadow Veil",
+        "description": "A secretive guild specializing in illusion and shadow magic.",
         "foundedYear": 1150,
         "isActive": false,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
@@ -353,6 +356,7 @@
     "guild": {
         "id": 4,
         "name": "Shadow Veil",
+        "description": "A secretive guild specializing in illusion and shadow magic.",
         "foundedYear": 1150,
         "isActive": false,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/DarkGuildLogo.png"
@@ -377,6 +381,7 @@
         }
     }
 ]
+
 
 
 
