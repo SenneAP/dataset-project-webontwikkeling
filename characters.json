@@ -31,6 +31,7 @@
     "guild": {
       "id": 2,
       "name": "Flame Covenant",
+      "description": "Fire magic specialists known for their destructive power.",
       "foundedYear": 1105,
       "isActive": true,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
@@ -124,6 +125,7 @@
     "guild": {
       "id": 2,
       "name": "Flame Covenant",
+      "description": "Fire magic specialists known for their destructive power.",
       "foundedYear": 1105,
       "isActive": true,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
@@ -218,6 +220,7 @@
     "guild": {
         "id": 2,
         "name": "Flame Covenant",
+        "description": "Fire magic specialists known for their destructive power.",
         "foundedYear": 1105,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
@@ -309,6 +312,7 @@
     "guild": {
         "id": 2,
         "name": "Flame Covenant",
+        "description": "Fire magic specialists known for their destructive power.",
         "foundedYear": 1105,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/FireGuildLogo.png"
@@ -369,4 +373,5 @@
         }
     }
 ]
+
 
