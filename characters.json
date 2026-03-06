@@ -88,6 +88,7 @@
     "guild": {
       "id": 5,
       "name": "Celestial Accord",
+      "description": "Magic users devoted to celestial and cosmic energies.",
       "foundedYear": 1088,
       "isActive": true,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
@@ -187,6 +188,7 @@
         "guild": {
         "id": 5,
         "name": "Celestial Accord",
+        "description": "Magic users devoted to celestial and cosmic energies.",
         "foundedYear": 1088,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
@@ -281,6 +283,7 @@
     "guild": {
         "id": 5,
         "name": "Celestial Accord",
+        "description": "Magic users devoted to celestial and cosmic energies.",
         "foundedYear": 1088,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
@@ -375,12 +378,14 @@
         "guild": {
             "id": 5,
             "name": "Celestial Accord",
+            "description": "Magic users devoted to celestial and cosmic energies.",
             "foundedYear": 1088,
             "isActive": true,
             "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/CerlestialGuildLogo.png"
         }
     }
 ]
+
 
 
 
