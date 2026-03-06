@@ -50,6 +50,7 @@
     "guild": {
       "id": 3,
       "name": "Verdant Order",
+      "description": "Nature-based magic users protecting the balance of life.",
       "foundedYear": 980,
       "isActive": true,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
@@ -145,6 +146,7 @@
     "guild": {
       "id": 3,
       "name": "Verdant Order",
+      "description": "Nature-based magic users protecting the balance of life.",
       "foundedYear": 980,
       "isActive": true,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
@@ -239,6 +241,7 @@
     "guild": {
         "id": 3,
         "name": "Verdant Order",
+        "description": "Nature-based magic users protecting the balance of life.",
         "foundedYear": 980,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
@@ -331,6 +334,7 @@
     "guild": {
         "id": 3,
         "name": "Verdant Order",
+        "description": "Nature-based magic users protecting the balance of life.",
         "foundedYear": 980,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/NatureGuildLogo.png"
@@ -373,5 +377,6 @@
         }
     }
 ]
+
 
 
