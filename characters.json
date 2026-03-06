@@ -12,6 +12,7 @@
     "guild": {
       "id": 1,
       "name": "Arcane Circle",
+      "description": "A guild focused on ancient arcane knowledge and spell mastery.",
       "foundedYear": 1023,
       "isActive": true,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
@@ -103,6 +104,7 @@
     "guild": {
       "id": 1,
       "name": "Arcane Circle",
+      "description": "A guild focused on ancient arcane knowledge and spell mastery.",
       "foundedYear": 1023,
       "isActive": true,
       "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
@@ -197,6 +199,7 @@
     "guild": {
         "id": 1,
         "name": "Arcane Circle",
+        "description": "A guild focused on ancient arcane knowledge and spell mastery.",
         "foundedYear": 1023,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
@@ -287,6 +290,7 @@
     "guild": {
         "id": 1,
         "name": "Arcane Circle",
+        "description": "A guild focused on ancient arcane knowledge and spell mastery.",
         "foundedYear": 1023,
         "isActive": true,
         "emblemUrl": "https://raw.githubusercontent.com/SenneAP/dataset-project-webontwikkeling/refs/heads/main/images/IceArcaneLogo.png"
@@ -365,3 +369,4 @@
         }
     }
 ]
+
